@@ -1,0 +1,26 @@
+{
+  "name": "fe39-axit",
+  "version": "1.0.0",
+  "source": "index.html",
+  "description": "FE39-AXIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaOparyna/FE39-AXIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaOparyna/FE39-AXIT/issues"
+  },
+  "homepage": "https://github.com/OlgaOparyna/FE39-AXIT#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
+  }
+}
